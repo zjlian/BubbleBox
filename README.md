@@ -1,2 +1,4 @@
-# BubbleBox
-stupid code
+# qq聊天气泡模拟器
+
+若要修改显示内容，下载到本地，修改js文件的userInfo对象的内容即可
+需要修改的头像则将头像文件放在 images 目录下即可
